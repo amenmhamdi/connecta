@@ -5,8 +5,22 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1706631594265,
-      "tag": "0000_robust_vindicator",
+      "when": 1706716770535,
+      "tag": "0000_glorious_corsair",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706717035353,
+      "tag": "0001_lethal_ben_parker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1706719397730,
+      "tag": "0002_colorful_rockslide",
       "breakpoints": true
     }
   ]
